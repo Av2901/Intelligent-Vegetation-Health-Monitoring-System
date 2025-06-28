@@ -1,0 +1,14 @@
+streamlit==1.28.0
+folium==0.14.0
+streamlit-folium==0.13.0
+sentinelhub==3.9.0
+earthengine-api==0.1.374
+pandas==2.1.0
+numpy==1.24.3
+scipy==1.11.2
+scikit-learn==1.3.0
+plotly==5.15.0
+rasterio==1.3.8
+requests==2.31.0
+jinja2==3.1.2
+geopy==2.3.0
